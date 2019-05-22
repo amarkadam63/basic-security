@@ -1,0 +1,1 @@
+1] Use of headers().frameOptions().disable() ?.
